@@ -21,7 +21,7 @@ const App = () => {
     'express 2.svg',
     'git.svg',
     'github.svg',
-    'html5.svg',
+    'html.svg',
     'java 1.svg',
     'javascript 1.svg',
     'jira 2.svg',
