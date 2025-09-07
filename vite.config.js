@@ -3,6 +3,7 @@ import { defineConfig } from "vite";
 import { fileURLToPath, URL } from "url";
 
 export default defineConfig({
+  base: './',
   build: { emptyOutDir: true },
   resolve: {
     alias: [
