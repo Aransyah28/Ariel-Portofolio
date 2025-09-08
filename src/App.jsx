@@ -2,11 +2,11 @@ import { PiHexagonThin } from 'react-icons/pi';
 import { motion } from 'framer-motion';
 import React from 'react';
 import portrait from './assets/image/portrait.png';
-import project1 from './assets/Image/bridgey.png';
-import project2 from './assets/Image/educhain.png';
-import project3 from './assets/Image/moomeadows.jpg';
-import game1 from './assets/Image/game1.png';
-import game2 from './assets/Image/game2.jpg';
+import project1 from './assets/image/bridgey.png';
+import project2 from './assets/image/educhain.png';
+import project3 from './assets/image/moomeadows.jpg';
+import game1 from './assets/image/game1.png';
+import game2 from './assets/image/game2.jpg';
 
 const App = () => {
 
