@@ -98,7 +98,7 @@ const App = () => {
             <button
               onClick={() =>
                 document
-                  .getElementById('Projects')
+                  .getElementById('projects')
                   ?.scrollIntoView({ behavior: 'smooth' })
               }
               className="rounded-lg bg-white px-6 py-3 font-semibold text-black hover:bg-gray-200"
